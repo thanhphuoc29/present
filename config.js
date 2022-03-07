@@ -1,6 +1,6 @@
 const nameGirl = 'Em';
 const giftUrl = 'https://maru.tappi.vn/thanhphuoc29/page/presentforu';
-const eventName = 'Chúc Mừng 20-10';
+const eventName = 'Chúc Mừng 8-3';
 const titleCard = 'Tặng cô gái của anh';
 const contentCard = 'Chúc cô gái của anh 8/3 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
 
